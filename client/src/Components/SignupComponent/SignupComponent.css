@@ -1,0 +1,9 @@
+.SCContainer{
+  background-color:#fcfcfc;
+  color: black;
+}
+.ScSubmitButton {
+  background-color:red;
+  width: 320px;
+  text-align: center
+}

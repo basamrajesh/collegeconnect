@@ -1,0 +1,21 @@
+.mainBlock{
+    background-color: red;
+    padding: 10px 10px 10px 10px;
+}
+
+.expertDiv{        
+    margin-top:20px;
+    border:0.5px solid #cbcfd6;
+    width:190px;
+    height:auto;
+    font-family:Open Sans;
+    background-color:white;
+    padding-top: 3px;
+    padding-bottom: '2%';  
+    position: relative; 
+}
+
+.studentProfiles{
+    width: 33%;
+    position: relative;
+}
